@@ -78,6 +78,10 @@ body {
   box-shadow: 0 5px 5px rgba(233, 196, 106, 0.2);
 }
 
+.list-item:focus-within {
+  background: black;
+}
+
 .products {
   width: 1440px;
   height: auto;

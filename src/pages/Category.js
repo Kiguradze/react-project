@@ -13,6 +13,7 @@ const Category = () => {
         setProducts(products);
         setIsPending(false);
       });
+    window.scrollTo(0, 0);
   }, [name]);
 
   return isPending ? (

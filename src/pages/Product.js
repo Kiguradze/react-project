@@ -14,6 +14,7 @@ const Product = () => {
         setProduct(product);
         setIsPending(false);
       });
+    window.scrollTo(0, 0);
   }, [id]);
 
   return isPending ? (
