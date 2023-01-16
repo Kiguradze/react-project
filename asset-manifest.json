@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Kiguradze/react-project.git/static/css/main.3b11eca0.css",
-    "main.js": "/Kiguradze/react-project.git/static/js/main.cd0d7a09.js",
+    "main.js": "/Kiguradze/react-project.git/static/js/main.abb8b653.js",
     "index.html": "/Kiguradze/react-project.git/index.html",
     "main.3b11eca0.css.map": "/Kiguradze/react-project.git/static/css/main.3b11eca0.css.map",
-    "main.cd0d7a09.js.map": "/Kiguradze/react-project.git/static/js/main.cd0d7a09.js.map"
+    "main.abb8b653.js.map": "/Kiguradze/react-project.git/static/js/main.abb8b653.js.map"
   },
   "entrypoints": [
     "static/css/main.3b11eca0.css",
-    "static/js/main.cd0d7a09.js"
+    "static/js/main.abb8b653.js"
   ]
 }
